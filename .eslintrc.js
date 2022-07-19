@@ -129,6 +129,7 @@ module.exports = {
     'no-unused-expressions': WARN,
     'no-plusplus': OFF,
     'no-console': OFF,
+    'no-shadow': OFF,
     'class-methods-use-this': ERROR,
     'jsx-quotes': [ERROR, 'prefer-single'],
     'global-require': OFF,
